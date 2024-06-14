@@ -1,3 +1,3 @@
 # The TGENV Organization
 
-This oorganization manage the resources about the [TGENV Project](https://github.com/tgenv/tgenv)
+This organization manages the resources about the [TGENV Project](https://github.com/tgenv/tgenv)
